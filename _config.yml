@@ -32,7 +32,7 @@ description:           >
 tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Artificial Intelligence, Machine Learning, Data Science, Computer Vision]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -44,7 +44,6 @@ author:
   # Used by `jekyll-feed`:
   name:                <Sooah> <Lee>
   email:               <soualee97@gmail.com>
-  picture:             /assets/img/me.jpg
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
