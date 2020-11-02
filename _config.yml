@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               You is kind. You is smart.You is important.
+tagline:               You is kind. //You is smart.// You is important.
 
 # A list of keywords for your blog
 keywords:              [Artificial Intelligence, Machine Learning, Data Science, Computer Vision]
@@ -104,7 +104,7 @@ remote_theme: hydecorp/hydejack@v9.0.5
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-#accent_image:          /assets/img/logo.png
+accent_image:          none
 accent_color:          rgb(217,225,232)
 
 # This is used for the `theme-color` meta tag,
