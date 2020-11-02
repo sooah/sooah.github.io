@@ -25,11 +25,10 @@ title:                 SHULOG
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  SHULOG is the project of programs
 
 # A shorter description for the sidebar.
-tagline:               You is kind. //You is smart.// You is important.
+tagline:               You is kind. You is smart. You is important.
 
 # A list of keywords for your blog
 keywords:              [Artificial Intelligence, Machine Learning, Data Science, Computer Vision]
