@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Machine Learning
-    url:               /ml/
+  - title:             Example
+    url:               /example/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -188,7 +188,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
- disqus:                <sooah>
+# disqus:                <username>
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
