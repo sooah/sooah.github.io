@@ -152,8 +152,8 @@ defaults:
 
   # # You can use the following to enable comments on all posts.
    - scope:
-  #     type:            posts
-  #   values:
+       type:            posts
+     values:
        comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
