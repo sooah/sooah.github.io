@@ -311,7 +311,6 @@ include:
 
 # Plugins
 # ----------------------------------------------------------------------------------------
-
 plugins:
   - jekyll-default-layout
   - jekyll-feed
