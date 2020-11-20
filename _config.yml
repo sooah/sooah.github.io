@@ -131,24 +131,24 @@ defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
   - scope:
-      path:            hyde/
+      path: hyde/
     values:
-      accent_color:    rgb(38,139,210)
+      accent_color: rgb(38,139,210)
       accent_image:
-        background:    rgb(32,32,32)
-        overlay:       false
+        background: rgb(32,32,32)
+        overlay: false
 
   # Don't include documents in assets in the sitemap
   - scope:
-      path:            assets/
+      path: assets/
     values:
-      sitemap:         false
+      sitemap: false
 
   # Don't include licenses in sitemap (feel free to delete)
   - scope:
-      path:            licenses/
+      path: licenses/
     values:
-      sitemap:         false
+      sitemap: false
 
   # # You can use the following to enable comments on all posts.
    - scope:
